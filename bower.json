@@ -1,0 +1,8 @@
+{
+  "name": "mobile-html",
+  "version": "0.0.1",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "3.2.0"
+  }
+}
